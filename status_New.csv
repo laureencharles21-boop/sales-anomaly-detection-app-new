@@ -1,0 +1,5 @@
+Status,Status_Code
+Captured,01
+Authorised,02
+Pending,03
+Declined,04
