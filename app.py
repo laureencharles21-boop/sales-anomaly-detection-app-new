@@ -17,7 +17,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("📊 Merchant Anomaly Detection Dashboard")
+st.title("📊 Merchant Anomaly Detection Dashboard - New")
 
 # ===============================
 # LOAD DATA
